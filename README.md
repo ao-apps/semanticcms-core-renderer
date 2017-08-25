@@ -31,6 +31,7 @@ Renders [SemanticCMS pages](https://semanticcms.com/core/pages/) to various outp
 * [GitHub](https://github.com/aoindustries/semanticcms-core-renderer)
 
 ## Modules
+* [SemanticCMS Core Renderer HTML](https://semanticcms.com/core/renderer/html/)
 * [SemanticCMS Core Renderer Servlet](https://semanticcms.com/core/renderer/servlet/)
 
 ## Contact Us

@@ -34,7 +34,7 @@ along with semanticcms-core-renderer.  If not, see <http://www.gnu.org/licenses 
 		title="@{documented.name}"
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
-		datePublished="2017-08-25T15:29:30-0500"
+		datePublished="2017-08-25T17:26:20-0500"
 	>
 		<core:child page="changelog" />
 		<core:child page="apidocs/" />
@@ -61,6 +61,7 @@ along with semanticcms-core-renderer.  If not, see <http://www.gnu.org/licenses 
 		</section:section>
 		<section:section label="Modules">
 			<ul>
+				<li><core:link book="/core/renderer/html" page="/" /></li>
 				<li><core:link book="/core/renderer/servlet" page="/" /></li>
 			</ul>
 		</section:section>
