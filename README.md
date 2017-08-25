@@ -21,7 +21,7 @@
 	</a>
 </p>
 
-Renders [SemanticCMS pages](https://semanticcms.com/pages/) to various output formats.
+Renders [SemanticCMS pages](https://semanticcms.com/core/pages/) to various output formats.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/core/renderer/)
