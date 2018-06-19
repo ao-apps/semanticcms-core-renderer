@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Core](https://semanticcms.com/core/) / [Renderer](https://semanticcms.com/core/renderer/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [SemanticCMS](https://github.com/aoindustries/semanticcms) / [Core](https://github.com/aoindustries/semanticcms-core) / [Renderer](https://github.com/aoindustries/semanticcms-core-renderer)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-alpha">
 		<img src="https://semanticcms.com/ao-badges/project-alpha.svg" alt="project: alpha" />
@@ -21,7 +21,7 @@
 	</a>
 </p>
 
-Renders [SemanticCMS pages](https://semanticcms.com/core/pages/) to various output formats.
+Renders [SemanticCMS pages](https://github.com/aoindustries/semanticcms-core-pages) to various output formats.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/core/renderer/)
@@ -31,8 +31,8 @@ Renders [SemanticCMS pages](https://semanticcms.com/core/pages/) to various outp
 * [GitHub](https://github.com/aoindustries/semanticcms-core-renderer)
 
 ## Modules
-* [SemanticCMS Core Renderer HTML](https://semanticcms.com/core/renderer/html/)
-* [SemanticCMS Core Renderer Servlet](https://semanticcms.com/core/renderer/servlet/)
+* [SemanticCMS Core Renderer HTML](https://github.com/aoindustries/semanticcms-core-renderer-html)
+* [SemanticCMS Core Renderer Servlet](https://github.com/aoindustries/semanticcms-core-renderer-servlet)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
