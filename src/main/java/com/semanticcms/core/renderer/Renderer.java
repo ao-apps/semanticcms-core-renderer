@@ -41,7 +41,7 @@ public interface Renderer {
 	 * Creates a new page renderer with the given attributes.  Which attributes are
 	 * required depends on the specific renderer implementation.
 	 */
-	// TODO: Java 1.8: Function<String,? extends Object>
+	// Java 1.8: Function<String,? extends Object>
 	PageRenderer newPageRenderer(Page page, Map<String,? extends Object> attributes) throws IOException;
 
 }

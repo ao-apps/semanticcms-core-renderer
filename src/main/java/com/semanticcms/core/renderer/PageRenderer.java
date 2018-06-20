@@ -35,7 +35,7 @@ public interface PageRenderer extends Closeable {
 	/**
 	 * Gets the last modified time of the rendering of this page or {@code 0} if unknown.
 	 */
-	// TODO: Java 1.8: default method returning 0
+	// Java 1.8: default method returning 0
 	long getLastModified() throws IOException;
 
 	/**
