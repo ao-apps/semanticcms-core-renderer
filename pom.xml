@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 semanticcms-core-renderer - Renders SemanticCMS pages to various output formats.
-Copyright (C) 2017, 2018  AO Industries, Inc.
+Copyright (C) 2017, 2018, 2019  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -47,7 +47,7 @@ along with semanticcms-core-renderer.  If not, see <http://www.gnu.org/licenses 
 		</div>]]></javadoc.modules>
 	</properties>
 
-	<name>SemanticCMS Core Renderer</name>
+	<name>SemanticCMS 2 Core Renderer</name>
 	<url>https://semanticcms.com/core/renderer/</url>
 	<description>Renders SemanticCMS pages to various output formats.</description>
 	<inceptionYear>2017</inceptionYear>
