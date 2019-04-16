@@ -70,10 +70,10 @@ along with semanticcms-core-renderer.  If not, see <http://www.gnu.org/licenses 
 						<configuration>
 							<links>
 								<link>${javac.link.javaApi}</link>
-								<link>https://aoindustries.com/ao-lang/apidocs</link>
-								<link>https://aoindustries.com/ao-net-types/apidocs</link>
-								<link>https://semanticcms.com/core/model/apidocs</link>
-								<link>https://semanticcms.com/core/pages/apidocs</link>
+								<link>https://aoindustries.com/ao-lang/apidocs/</link>
+								<link>https://aoindustries.com/ao-net-types/apidocs/</link>
+								<link>https://semanticcms.com/core/model/apidocs/</link>
+								<link>https://semanticcms.com/core/pages/apidocs/</link>
 							</links>
 						</configuration>
 					</plugin>
