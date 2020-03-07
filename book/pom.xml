@@ -35,8 +35,6 @@ along with semanticcms-core-renderer.  If not, see <http://www.gnu.org/licenses 
 	<properties>
 		<!-- These values are copied from the project being documented -->
 		<documented.artifactId>semanticcms-core-renderer</documented.artifactId>
-		<documented.javaVersion>1.8</documented.javaVersion>
-		<documented.javac.link.javaApi>${javac.link.javaApi.jdk8}</documented.javac.link.javaApi>
 		<documented.name>SemanticCMS Core Renderer²</documented.name>
 		<documented.shortTitle>Renderer</documented.shortTitle>
 		<documented.description>Renders SemanticCMS pages to various output formats.</documented.description>
