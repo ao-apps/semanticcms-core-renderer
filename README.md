@@ -27,7 +27,7 @@ Renders [SemanticCMS pages](https://github.com/aoindustries/semanticcms-core-pag
 * [Project Home](https://semanticcms.com/core/renderer/)
 * [Changelog](https://semanticcms.com/core/renderer/changelog)
 * [API Docs](https://semanticcms.com/core/renderer/apidocs/)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.semanticcms%22%20AND%20a:%22semanticcms-core-renderer%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.semanticcms/semanticcms-core-renderer)
 * [GitHub](https://github.com/aoindustries/semanticcms-core-renderer)
 
 ## Modules
