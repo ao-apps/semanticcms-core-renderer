@@ -53,7 +53,6 @@ along with semanticcms-core-renderer.  If not, see <http://www.gnu.org/licenses 
 	<inceptionYear>2017</inceptionYear>
 
 	<scm>
-		<!-- Can't inherit due to multi-module -->
 		<connection>scm:git:git://github.com/aoindustries/semanticcms-core-renderer.git</connection>
 		<developerConnection>scm:git:git@github.com:aoindustries/semanticcms-core-renderer.git</developerConnection>
 		<url>https://github.com/aoindustries/semanticcms-core-renderer</url>
