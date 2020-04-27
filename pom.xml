@@ -76,7 +76,7 @@ along with semanticcms-core-renderer.  If not, see <http://www.gnu.org/licenses 
 								<link>${javadoc.link.javase}</link>
 								<!-- Direct -->
 								<link>https://semanticcms.com/core/model/apidocs/</link>
-								<link>https://semanticcms.com/core/pages/apidocs/</link>
+								<!-- TODO: Once published: <link>https://semanticcms.com/core/pages/apidocs/</link> -->
 							</links>
 						</configuration>
 					</plugin>
