@@ -1,6 +1,6 @@
 /*
  * semanticcms-core-renderer - Renders SemanticCMS pages to various output formats.
- * Copyright (C) 2017, 2018  AO Industries, Inc.
+ * Copyright (C) 2017, 2018, 2021  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -41,7 +41,7 @@ public interface Renderer {
 	 * Creates a new page renderer with the given attributes.  Which attributes are
 	 * required depends on the specific renderer implementation.
 	 */
-	// Java 1.8: Function<String,? extends Object>
-	PageRenderer newPageRenderer(Page page, Map<String,? extends Object> attributes) throws IOException;
+	// Java 1.8: Function<String, ? extends Object>
+	PageRenderer newPageRenderer(Page page, Map<String, ? extends Object> attributes) throws IOException;
 
 }
