@@ -33,16 +33,16 @@ import java.util.Map;
  */
 public interface Renderer {
 
-	/**
-	 * Gets the level the page should be captured at for this renderer.
-	 */
-	CaptureLevel getCaptureLevel();
+  /**
+   * Gets the level the page should be captured at for this renderer.
+   */
+  CaptureLevel getCaptureLevel();
 
-	/**
-	 * Creates a new page renderer with the given attributes.  Which attributes are
-	 * required depends on the specific renderer implementation.
-	 */
-	// Java 1.8: Function<String, ? extends Object>
-	PageRenderer newPageRenderer(Page page, Map<String, ? extends Object> attributes) throws IOException;
+  /**
+   * Creates a new page renderer with the given attributes.  Which attributes are
+   * required depends on the specific renderer implementation.
+   */
+  // Java 1.8: Function<String, ? extends Object>
+  PageRenderer newPageRenderer(Page page, Map<String, ? extends Object> attributes) throws IOException;
 
 }

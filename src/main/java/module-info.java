@@ -1,6 +1,6 @@
 /*
  * semanticcms-core-renderer - Renders SemanticCMS pages to various output formats.
- * Copyright (C) 2021  AO Industries, Inc.
+ * Copyright (C) 2021, 2022  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -21,8 +21,8 @@
  * along with semanticcms-core-renderer.  If not, see <https://www.gnu.org/licenses/>.
  */
 module com.semanticcms.core.renderer {
-	exports com.semanticcms.core.renderer;
-	// Direct
-	requires com.semanticcms.core.model; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId>
-	requires com.semanticcms.core.pages; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-pages</artifactId>
+  exports com.semanticcms.core.renderer;
+  // Direct
+  requires com.semanticcms.core.model; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId>
+  requires com.semanticcms.core.pages; // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-pages</artifactId>
 }

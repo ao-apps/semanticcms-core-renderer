@@ -33,32 +33,32 @@ import java.io.Writer;
  */
 public interface PageRenderer extends Closeable {
 
-	/**
-	 * Gets the last modified time of the rendering of this page or {@code 0} if unknown.
-	 */
-	// Java 1.8: default method returning 0
-	long getLastModified() throws IOException;
+  /**
+   * Gets the last modified time of the rendering of this page or {@code 0} if unknown.
+   */
+  // Java 1.8: default method returning 0
+  long getLastModified() throws IOException;
 
-	/**
-	 * Gets the content type, including any necessary character encoding.
-	 */
-	String getContentType() throws IOException;
+  /**
+   * Gets the content type, including any necessary character encoding.
+   */
+  String getContentType() throws IOException;
 
-	/**
-	 * Gets the length of the rendered page, in bytes after character encoding,
-	 * if known, or {@code -1} if unknown.
-	 */
-	long getLength() throws IOException;
+  /**
+   * Gets the length of the rendered page, in bytes after character encoding,
+   * if known, or {@code -1} if unknown.
+   */
+  long getLength() throws IOException;
 
-	/**
-	 * Renders the output for the page.  This will only be called once.
-	 */
-	void doRenderer(Writer out) throws IOException;
+  /**
+   * Renders the output for the page.  This will only be called once.
+   */
+  void doRenderer(Writer out) throws IOException;
 
-	/**
-	 * A page renderer must be closed once completed.
-	 */
-	@Override
-	void close() throws IOException;
+  /**
+   * A page renderer must be closed once completed.
+   */
+  @Override
+  void close() throws IOException;
 
 }
