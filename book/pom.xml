@@ -36,15 +36,15 @@ along with semanticcms-core-renderer.  If not, see <https://www.gnu.org/licenses
     <module.name>com.semanticcms.core.renderer.book</module.name>
     <!-- These values are copied from the project being documented -->
     <documented.artifactId>semanticcms-core-renderer</documented.artifactId>
-    <documented.name>SemanticCMS Core Renderer²</documented.name>
+    <documented.name>SemanticCMS Core Renderer</documented.name>
     <documented.description>Renders SemanticCMS pages to various output formats.</documented.description>
 
     <description.html><![CDATA[Documentation for <a target="${javadoc.target}" href="${project.url}">${documented.name}</a> in <a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a> format.]]></description.html>
   </properties>
 
-  <name>SemanticCMS Core Renderer² Book</name>
+  <name>SemanticCMS Core Renderer Book</name>
   <url>https://semanticcms.com/core/renderer/</url>
-  <description>Documentation for SemanticCMS Core Renderer² in SemanticCMS format.</description>
+  <description>Documentation for SemanticCMS Core Renderer in SemanticCMS format.</description>
   <inceptionYear>2017</inceptionYear>
 
   <licenses>

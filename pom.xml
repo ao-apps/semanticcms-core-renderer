@@ -51,7 +51,7 @@ along with semanticcms-core-renderer.  If not, see <https://www.gnu.org/licenses
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>SemanticCMS Core Renderer²</name>
+  <name>SemanticCMS Core Renderer</name>
   <url>https://semanticcms.com/core/renderer/</url>
   <description>Renders SemanticCMS pages to various output formats.</description>
   <inceptionYear>2017</inceptionYear>
