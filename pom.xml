@@ -46,10 +46,6 @@ along with semanticcms-core-renderer.  If not, see <https://www.gnu.org/licenses
         <li><a target="${javadoc.target}" href="https://semanticcms.com/core/renderer/servlet/">SemanticCMS Core Renderer Servlet</a></li>
       </ul>
     </div>]]></javadoc.modules>
-    <!-- SonarQube -->
-    <sonar.projectKey>${project.groupId}:${project.artifactId}</sonar.projectKey>
-    <sonar.organization>ao-apps</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <name>SemanticCMS Core Renderer</name>
