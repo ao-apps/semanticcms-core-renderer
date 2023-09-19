@@ -39,7 +39,6 @@ along with semanticcms-core-renderer.  If not, see <https://www.gnu.org/licenses
     <javadoc.breadcrumbs><![CDATA[<a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a>
 / <a target="${javadoc.target}" href="https://semanticcms.com/core/">Core</a>
 / <a target="${javadoc.target}" href="${project.url}">Renderer</a>]]></javadoc.breadcrumbs>
-    <description.html><![CDATA[Renders <a target="${javadoc.target}" href="https://semanticcms.com/core/pages/">SemanticCMS pages</a> to various output formats.]]></description.html>
     <javadoc.modules><![CDATA[<div>
       <h2>Modules</h2>
       <ul>
@@ -47,6 +46,8 @@ along with semanticcms-core-renderer.  If not, see <https://www.gnu.org/licenses
         <li><a target="${javadoc.target}" href="https://semanticcms.com/core/renderer/servlet/">SemanticCMS Core Renderer Servlet</a></li>
       </ul>
     </div>]]></javadoc.modules>
+    
+    <description.html><![CDATA[Renders <a target="${javadoc.target}" href="https://semanticcms.com/core/pages/">SemanticCMS pages</a> to various output formats.]]></description.html>
   </properties>
 
   <name>SemanticCMS Core Renderer</name>
