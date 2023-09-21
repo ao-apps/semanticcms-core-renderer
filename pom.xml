@@ -46,7 +46,7 @@ along with semanticcms-core-renderer.  If not, see <https://www.gnu.org/licenses
         <li><a target="${javadoc.target}" href="https://semanticcms.com/core/renderer/servlet/">SemanticCMS Core Renderer Servlet</a></li>
       </ul>
     </div>]]></javadoc.modules>
-    
+
     <description.html><![CDATA[Renders <a target="${javadoc.target}" href="https://semanticcms.com/core/pages/">SemanticCMS pages</a> to various output formats.]]></description.html>
   </properties>
 
