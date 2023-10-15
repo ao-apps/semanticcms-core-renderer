@@ -30,6 +30,7 @@ def upstreamProjects = [
   // Direct
   'model', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-model</artifactId>
   'pages', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-core-pages</artifactId>
+  // No Jenkins: <groupId>com.github.spotbugs</groupId><artifactId>spotbugs-annotations</artifactId>
 ]
 
 /******************************************************************************************
