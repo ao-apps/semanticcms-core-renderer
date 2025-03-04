@@ -1,6 +1,6 @@
 /*
  * semanticcms-core-renderer - Renders SemanticCMS pages to various output formats.
- * Copyright (C) 2017, 2018, 2021, 2022, 2023  AO Industries, Inc.
+ * Copyright (C) 2017, 2018, 2021, 2022, 2023, 2025  AO Industries, Inc.
  *     support@aoindustries.com
  *     7262 Bull Pen Cir
  *     Mobile, AL 36695
@@ -25,14 +25,12 @@ package com.semanticcms.core.renderer;
 
 import com.semanticcms.core.model.Page;
 import com.semanticcms.core.pages.CaptureLevel;
-import edu.umd.cs.findbugs.annotations.SuppressFBWarnings;
 import java.io.IOException;
 import java.util.Map;
 
 /**
  * Implementations must be thread-safe.
  */
-@SuppressFBWarnings("PI_DO_NOT_REUSE_PUBLIC_IDENTIFIERS_CLASS_NAMES")
 public interface Renderer {
 
   /**
