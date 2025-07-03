@@ -22,7 +22,7 @@ Renders [SemanticCMS pages](https://github.com/ao-apps/semanticcms-core-pages) t
 * [Project Home](https://semanticcms.com/core/renderer/)
 * [Changelog](https://semanticcms.com/core/renderer/changelog)
 * [API Docs](https://semanticcms.com/core/renderer/apidocs/)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-core-renderer)
+* [Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-core-renderer)
 * [GitHub](https://github.com/ao-apps/semanticcms-core-renderer)
 
 ## Modules
